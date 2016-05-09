@@ -1,3 +1,2 @@
 # hello-world
-Test
-15 year retaile POS engineer living in NYC
+15 year retail POS engineer living in NYC
